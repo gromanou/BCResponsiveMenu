@@ -85,7 +85,7 @@ var options = {
 }
 ```
 
-#3 Initiate code
+#4 Initiate code
 
 And finally we need to call BCresponsiveMenu object with options in argument
 Place this code in your document.ready() section. 
