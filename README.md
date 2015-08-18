@@ -25,6 +25,7 @@ To use this you will have to know how to work with @media Queries. Please look i
 #1 First thing first. 
 
 Have BC.responsiveMenu.js file linked.
+Also you will have to include jQuery , unless you are allready using it. 
 
 ```
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
