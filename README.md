@@ -27,7 +27,8 @@ To use this you will have to know how to work with @media Queries. Please look i
 Have BC.responsiveMenu.js file linked.
 
 ```
-<script type="text/javascript" src="js/BC.responsiveMenu.js"></script>	
+<script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+<script type="text/javascript" src="js/BC.responsiveMenu.js"></script>
 ```
 
 
